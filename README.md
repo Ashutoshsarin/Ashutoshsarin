@@ -131,7 +131,20 @@
       <p><b>Tech:</b> Python · Scikit-learn · Streamlit · Pandas</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💪 Your Fitness — AI Fitness Agent</h3>
+      <p align="center">
+        <a href="https://github.com/Ashutoshsarin/your-fitness">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+      <p>AI-powered fitness agent that uses computer vision to analyze and correct exercise posture in real-time, plus generates personalized diet plans based on BMI calculation.</p>
+      <p><b>Tech:</b> Python · OpenCV · MediaPipe · TensorFlow · Streamlit</p>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
@@ -146,18 +159,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge"/>
 </p>
-<tr>
-    <td width="50%">
-      <h3 align="center">💪 Your Fitness — AI Fitness Agent</h3>
-      <p align="center">
-        <a href="https://github.com/Ashutoshsarin/your-fitness">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p>AI-powered fitness agent that uses computer vision to analyze and correct exercise posture in real-time, plus generates personalized diet plans based on BMI calculation.</p>
-      <p><b>Tech:</b> Python · OpenCV · MediaPipe · TensorFlow · Streamlit</p>
-    </td>
-  </tr>
+
 
 ---
 
